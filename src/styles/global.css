@@ -1,0 +1,14 @@
+@import url("./_reset.css");
+@import url("./_color.css");
+
+body {
+  max-width: 1232px;
+  margin: 0 auto;
+  padding: 0 16px;
+  background: var(--primary-main);
+  color: var(--typography-white);
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}

@@ -1,0 +1,10 @@
+:root {
+  --primary-main: #090e16;
+  --second-main: #2c3639;
+  --third-main: #a8e890;
+
+  /* typography */
+  --typography-main: #a8e890;
+  --typography-white: #fff;
+  --typography-black: #000;
+}
